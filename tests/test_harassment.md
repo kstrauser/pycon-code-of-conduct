@@ -1,9 +1,6 @@
-# Fixtures
+from test_common import *
 
-import "Attendee Procedure for incident handling.md" as attproc
-import "Staff Procedure for incident handling.md" as staffproc
-
-# Test case: Attendee can privately report harassment to PyCon staff
+# Test case: Attendee can privately report harassment to Staff
 
 * Fixture
 
@@ -11,7 +8,7 @@ An Attendee who believes they are being harassed.
 
 * Outcome
 
-Attendee is able to privately report their harassment to PyCon staff.
+Attendee is able to privately report their harassment to Staff.
 
 * Test
 
