@@ -18,7 +18,7 @@ Try to get as much of the incident in written form by the reporter. If you canno
  - The circumstances surrounding the incident
  - Other people involved in the incident
 
-<-- e!ndclause:information -->
+<!-- endclause:information -->
 <!-- clause:response -->
 Prepare an initial response to the incident. This initial response is very important and will set the tone for PyCon. Depending on the severity/details of the incident, please follow these guidelines:
 
@@ -29,7 +29,7 @@ Prepare an initial response to the incident. This initial response is very impor
  - Provide them with your list of emergency contacts if they need help later
  - If everyone is presently physically safe, involve law enforcement or security only at a victim's request
 
-<-- e!ndclause:response -->
+<!-- endclause:response -->
 <!-- clause:antiresponse -->
 There are also some guidelines as to what not to do as an initial response:
 
@@ -37,7 +37,7 @@ There are also some guidelines as to what not to do as an initial response:
  - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility.
  - Do not offer them input into penalties. This is the staff's responsibility.
 
-<-- e!ndclause:antiresponse -->
+<!-- endclause:antiresponse -->
 <!-- clause:tellchair -->
 Once something is reported to a staff member, immediately meet with the conference chair and/or event coordinator. The main objectives of this meeting is to find out the following:
 
@@ -46,7 +46,7 @@ Once something is reported to a staff member, immediately meet with the conferen
  - Who is doing those things?
  - When are they doing them?
 
-<-- e!ndclause:tellchair -->
+<!-- endclause:tellchair -->
 <!-- clause:contactharasser -->
 After the staff meeting and discussion, have a staff member (preferably the conference chair or event coordinator if available) communicate with the alleged harasser. Make sure to inform them of what has been reported about them.
 

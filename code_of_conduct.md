@@ -81,6 +81,7 @@ Procedure for Handling Harassment
 <!-- clause:links -->
 - [Attendee Procedure for incident handling](/2013/about/code-of-conduct/harassment-incidents/)
 - [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+
 <!-- endclause:links -->
 
 License
