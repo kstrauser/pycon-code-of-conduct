@@ -27,7 +27,7 @@ The staff is well informed on how to deal with the incident and how to further p
 <!-- endclause:lawenforcement -->
 
 <!-- clause:stafffirst -->
-**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. Use your best judgment with regard to reporting an incident. PyCon staff requests that they be your first resort so that they may enforce the Code of Conduct and take quick action toward a resolution.
+**Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for the offenders, and the community at large, to grow, learn, and become better. PyCon staff requests that they be your first resource when reporting a PyCon-related incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
 <!-- endclause:stafffirst -->
 
 <!-- clause:stafflinks -->
